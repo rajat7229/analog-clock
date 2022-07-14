@@ -16,6 +16,9 @@ PNG Image
 mp3 Soundtrack
 
 # Features
+
 Animated Analog Clock in Real-Time
+
 Responsive
+
 Ticking Clock sound in the Background
